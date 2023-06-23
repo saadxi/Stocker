@@ -1,3 +1,2 @@
 # Stocker
-Web App checking for availability of limited stock products such as graphics cards.
-Utilizes beautifulsoup4 to scrape web data.
+Programming a web data scraper using beautifulsoup4 to scan for availability of limited stock products such as graphics cards.
